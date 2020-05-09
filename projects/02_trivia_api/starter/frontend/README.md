@@ -6,7 +6,7 @@
 
 ### Installing Dependencies
 
-#### Installing Node and NPM
+#### Installing Node and NPM - DONE
 
 This project depends on Nodejs and Node Package Manager (NPM). Before continuing, you must download and install Node (the download includes NPM) from [https://nodejs.com/en/download](https://nodejs.org/en/download/).
 
@@ -22,7 +22,7 @@ npm install
 
 ## Required Tasks
 
-## Running Your Frontend in Dev Mode
+## Running Your Frontend in Dev Mode - DONE
 
 The frontend app was built using create-react-app. In order to run the app in development mode use ```npm start```. You can change the script in the ```package.json``` file. 
 
@@ -32,7 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser. T
 npm start
 ```
 
-## Request Formatting
+## Request Formatting 
 
 The frontend should be fairly straightforward and disgestible. You'll primarily work within the ```components``` folder in order to edit the endpoints utilized by the components. While working on your backend request handling and response formatting, you can reference the frontend to view how it parses the responses. 
 
